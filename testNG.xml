@@ -4,7 +4,7 @@
   <test name="Flirchi">
     <classes>
       <class name="Registration.C0001"/>
-      <class name="Registration.C0002"/>
+//      <class name="Registration.C0002"/>
     </classes>
   </test>
 </suite>
